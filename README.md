@@ -1,6 +1,8 @@
 # NgHexagonMap
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
+This is a take home task for GIS-Point.
+It is mostly working fine, but it seems like the colors are not displayed properly.
+Maybe I missed something in the renderHexagons() functions.
 
 ## Development server
 
